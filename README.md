@@ -8,4 +8,4 @@
 查漏补缺,使印象更加深刻
 ### github Jupyternotebook特别文件打不开：
 使用此链接查看：
-(NeuralNetwork)[https://nbviewer.jupyter.org/github/ckfanzhe/JupySum/blob/master/SumLearn/Models/NeuralNetwork.ipynb]
+[NerualNetwork](https://nbviewer.jupyter.org/github/ckfanzhe/JupySum/blob/master/SumLearn/Models/NeuralNetwork.ipynb)
