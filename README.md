@@ -6,3 +6,6 @@
 ### SumLearn/Models
 用于存放暑假期间学习的基本机器学习模型样例：比如回归、聚类、决策树、SVM、EM算法、神经网络等, 
 查漏补缺,使印象更加深刻
+### github Jupyternotebook特别文件打不开：
+使用此链接查看：
+[NerualNetwork](https://nbviewer.jupyter.org/github/ckfanzhe/JupySum/blob/master/SumLearn/Models/NeuralNetwork.ipynb)
